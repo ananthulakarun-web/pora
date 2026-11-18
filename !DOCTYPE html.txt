@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+
+    <h1>Welcome to My Web Page</h1>
+    <p>Hello! This is my first HTML program.</p>
+
+    <h2>About Me</h2>
+    <p>My name is Karun. I am a B.Tech student.</p>
+
+</body>
+</html>
